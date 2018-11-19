@@ -1,0 +1,15 @@
+C:\Users\cceinfo\source\repos\LEDCONTROL\LEDCONTROL\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+C:\Users\cceinfo\source\repos\LEDCONTROL\LEDCONTROL\obj\Debug\LEDCONTROL.Properties.Resources.resources
+C:\Users\cceinfo\source\repos\LEDCONTROL\LEDCONTROL\obj\Debug\Controlador.csproj.GenerateResource.cache
+C:\Users\cceinfo\source\repos\LEDCONTROL\LEDCONTROL\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\cceinfo\source\repos\LEDCONTROL\LEDCONTROL\obj\Debug\LEDCONTROL.exe
+C:\Users\cceinfo\source\repos\LEDCONTROL\LEDCONTROL\obj\Debug\LEDCONTROL.pdb
+C:\Users\cceinfo\source\repos\LEDCONTROL\LEDCONTROL\bin\Debug\LEDCONTROL.exe.config
+C:\Users\cceinfo\source\repos\LEDCONTROL\LEDCONTROL\bin\Debug\LEDCONTROL.exe
+C:\Users\cceinfo\source\repos\LEDCONTROL\LEDCONTROL\bin\Debug\LEDCONTROL.pdb
+C:\Users\cceinfo\source\repos\LEDCONTROL\LEDCONTROL\bin\Debug\MathNet.Numerics.dll
+C:\Users\cceinfo\source\repos\LEDCONTROL\LEDCONTROL\bin\Debug\websocket-sharp.dll
+C:\Users\cceinfo\source\repos\LEDCONTROL\LEDCONTROL\bin\Debug\MathNet.Numerics.xml
+C:\Users\cceinfo\source\repos\LEDCONTROL\LEDCONTROL\bin\Debug\websocket-sharp.xml
+C:\Users\cceinfo\source\repos\LEDCONTROL\LEDCONTROL\obj\Debug\LEDCONTROL.Controle.resources
+C:\Users\cceinfo\source\repos\LEDCONTROL\LEDCONTROL\obj\Debug\Controlador.csproj.CopyComplete
